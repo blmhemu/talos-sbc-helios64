@@ -1,4 +1,4 @@
-module board
+module helios64
 
 go 1.22.1
 

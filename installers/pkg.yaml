@@ -1,7 +1,7 @@
 name: sbc-board
 variant: scratch
 dependencies:
-  - stage: board
+  - stage: helios64
   - stage: u-boot
     platform: linux/arm64
   - stage: profiles
